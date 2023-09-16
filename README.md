@@ -29,3 +29,6 @@ Criação de um site para padaria fictícia, que possui um catálogo de produtos
 | Cor quaternária       | ![#000000](https://via.placeholder.com/10/000000?text=+) #000000 |
 
 
+### Imagens
+![Captura de tela_2023-09-16_18-45-19](https://github.com/VitoriaPio/Padaria/assets/81269768/c4fb598c-40c6-4b05-b74b-3307aad58f88)
+
